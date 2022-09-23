@@ -2,9 +2,13 @@
 
 A chrome extension to lookup japanese words on the fly.
 
+## Installation
+
+Download the [minified](https://github.com/9elt/jisho-on-the-fly/tree/min) branch code > navigate to "chrome://extensions" > toggle "developer mode" on > "load unpacked" > select the downloaded folder
+
 ## Usage
 
-#### **Select** some japanse text in a web page
+#### **Select** some text in a web page
 
 then:
 
@@ -16,6 +20,6 @@ load word / sentence definitions
 
 ### press CTRL + y
 
-load kanji meanings, readings and strokes order (max 1 kanji selected)
+load kanji meanings, readings and stroke order (max 1 kanji selected)
 
 <img src="https://github.com/9elt/jisho-on-the-fly/blob/readme_media/media/kanji.jpg" data-canonical-src="https://github.com/9elt/jisho-on-the-fly/blob/readme_media/media/kanji.jpg" width="427" height="320" />
